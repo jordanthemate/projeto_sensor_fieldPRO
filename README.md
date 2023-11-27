@@ -16,7 +16,7 @@ O objetivo deste projeto foi construir um modelo de calibração de um sensor de
 2. Pré-processamento de Dados
    - Transformações necessárias nos dados para o treinamento do modelo
    - Lidar com dados ausentes
-   - Normalização ou padronização de variáveis, se necessário
+   - Normalização ou padronização de variáveis
 
 3. Treinamento do Modelo de Regressão Linear
    - Criação e treinamento do modelo de regressão
